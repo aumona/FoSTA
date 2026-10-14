@@ -6,6 +6,7 @@ data_sketchy/
 data_har/
 data_rgbd/
 data_ave/
+data_preprocessing/
 
 # nohup
 nohup.out
